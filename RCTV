@@ -1,0 +1,21 @@
+CRIADO POR MIM MSM Paulo vinicius (-.-) 
+# EXTM3U 
+ 
+ 
+#EXTINF: -1 tvg-id = "SPACE" tvg-name = "SPACE" tvg-logo = "http://img.starbr.in/1559766918_c0073c730f58bbd5cdaa3143f58a6afb80ebeacd.png" group-title = "Filmes e Series", SPACE 
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/space.m3u8?mu3zAQc9HC3GbwJq=Hxz9YlrnO3wCXA_JdYb55g&3U1G7qaTxr1626Pbal
+ 
+#EXTINF: -1 tvg-id = "TNT" tvg-name = "TNT" tvg-logo = "http://img.starbr.in/1559768670_0f6919dd5e99410decc40d8a186989957324a660.png" group-title = "Filmes e Series", TNT
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=vkUmm7KUi-ETf2HQqsiGxA&3U1G7qaTxrPbal4ZnEx=164164ZnEx
+ 
+#EXTINF: -1 tvg-id = "TC PIPOCA" tvg-name = "TELECINE PIPOCA" tvg-logo = "http://img.starbr.in/1559768323_366798749b48fcf44002badff0abe6b71622d10a.png" group-title = "e Series", TELECINE PIPOCA
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/telecinepipoca.m3u8?mu3zAQc9HC3GbwJq=kjlHNrj3D0Kjcwhp13gvaA&3U1G7balZaTx316Px66Px3
+ 
+#EXTINF: -1 tvg-id = "REDE DE DESENHOS ANIMADOS" tvg-name = "REDE DE DESENHOS ANIMADOS" tvg-logo = "http://img.starbr.in/1559754696_e1e9b7ed53cb8474ddcecf70 REDE DE DESENHOS ANIMADOS" tvg-logo = "http://img.starbr.in/1559754696_e1e9b7ed53cb8474ddcecf70cedb8fd7b98il1b9.jpg" group-title "CARTONWORK
+https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=nl1qmZD0zvRK2vynPfxeeg&3U1G7qaTxrPbal20=16354Zn135164Zn
+ 
+#EXTINF: -1 tvg-id = "RECORD" tvg-name = "RECORD" tvg-logo = "http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title = "Canais Abertos", RECORD 
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
+ 
+#EXTINF: -1 tvg-id = "SBT" tvg-name = "SBT" tvg-logo = "http://img.starbr.in/1559766096_2afe16915481b045e888571e41f697ee42089a6f.png" group-title = "Canais Abertos", SBT 
+https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
