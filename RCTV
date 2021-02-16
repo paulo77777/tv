@@ -21,6 +21,6 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://img.starbr.in/1559766096_2afe16915481b045e888571e41f697ee42089a6f.png" group-title="Canais Abertos",SBT 
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-id="filme" tvg-name="cine filme" tvg-logo="https://www.gratispng.com/png-jduwnu/download.html" group-title="Filmes 24 horas",cine filme 01
+#EXTINF:-1 tvg-id="filme" tvg-name="cine filme" tvg-logo="https://www.gratispng.com/png-jduwnu/download.html" group-title="Filmes 24 horas",Cine filme 01
 https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/playlist.m3u8
 
