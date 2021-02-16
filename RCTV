@@ -23,3 +23,5 @@ https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
 #EXTINF:-1 tvg-id="filme" tvg-name="filme 01" tvg-logo="https://logodownload.org/wp-content/uploads/2014/09/sky-logo-0.png" group-title="Filmes 24 horas",canal 01
 https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/playlist.m3u8
 
+EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND SP
+http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
