@@ -3,7 +3,7 @@
 #EXTINF: -1 tvg-id = "CINE +" tvg-name = "CINE +" tvg-logo = "file:///storage/emulated/0/Download/free_horizontal_on_white_by_logaster.png" group-title = "Filmes e Series",CINE + 
 https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-id = "TNT" tvg-name = "TNT" tvg-logo = "http://img.starbr.in/1559768670_0f6919dd5e99410decc40d8a186989957324a660.png" group-title = "Filmes e Series", TNT
+#EXTINF: -1 tvg-id = "TNT" tvg-name = "TNT" tvg-logo = "file:///storage/emulated/0/Download/free_horizontal_on_white_by_logaster.png" group-title = "Filmes e Series", TNT
 https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=Hb8wCfOw-Hn2MCijVKzubA&3U1G7qaTxrPbalZnEx=1613509740
 
 #EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA " tvg-logo="http://img.starbr.in/1559768323_366798749b48fcf44002badff0abe6b71622d10a.png" group-title="Filmes e Series",TELECINE PIPOCA
