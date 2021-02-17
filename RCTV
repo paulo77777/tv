@@ -1,6 +1,6 @@
 #EXTM3U 
  
-#EXTINF: -1 tvg-id = "CINE +" tvg-name = "CINE +" tvg-logo = "https://drive.google.com/file/d/1mptmjkuu7tyumuKvCT2C8om1L5m3_LTn/view?usp=drivesdk" group-title = "Filmes e Series",CINE + 
+#EXTINF: -1 tvg-id = "CINE +" tvg-name = "CINE +" tvg-logo = "file:///storage/emulated/0/Download/free_horizontal_on_white_by_logaster.png" group-title = "Filmes e Series",CINE + 
 https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
 
 #EXTINF: -1 tvg-id = "TNT" tvg-name = "TNT" tvg-logo = "http://img.starbr.in/1559768670_0f6919dd5e99410decc40d8a186989957324a660.png" group-title = "Filmes e Series", TNT
