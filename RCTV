@@ -1,5 +1,5 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="MEGA FLIX" tvg-name="MEGA FLIX" tvg-logo="file:///storage/emulated/0/Download/MEGAFLIX-SERIES%20E%20FILMES%20ONLINE.jpeg" group-title="SERIES E FILME ONLINE",CANA 1
+#EXTINF:-1 tvg-id="MEGA FLIX" tvg-name="MEGA FLIX" tvg-logo="file:///storage/emulated/0/Download/MEGAFLIX-SERIES%20E%20FILMES%20ONLINE.jpeg" group-title="SERIES E FILME ONLINE",MEGAFLIX 1
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
