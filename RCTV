@@ -1,5 +1,18 @@
-#EXTM3U
-
-
-#EXTINF:-1 tvg-id="TC" tvg-name="TC" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-1-1.png" group-title="Filmes e Series",Canal 1
+# EXTM3U
+ 
+ 
+#EXTINF: -1 tvg-id = "TC" tvg-name = "TC" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-1-1. png "group-title =" Filmes e Series ", Canal 1
 https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+ 
+#EXTINF: -1 tvg-id = "TC" tvg-name = "TC" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-1-1. png "group-title =" Filmes e Series ", Canal 2
+https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
+ 
+#EXTINF: -1 tvg-id = "TC" tvg-name = "TC" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-1-1. png "group-title =" Filmes e Series ", Canal 3
+https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8
+ 
+#EXTINF: -1 tvg-id = "TC" tvg-name = "TC" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-1-1. png "group-title =" Filmes e Series ", Canal 4
+https://5b7f3c45ab7c2.streamlock.net/8002/8002/cunklist.m3u8
+ 
+#EXTINF: -1 tvg-id = "TC" tvg-name = "TC" tvg-logo = "https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-1-1. png "group-title =" Filmes e Series ", Canal 5
+https://stmv1.srvif.com/reconsatcine/reconsatcine/playlist.m3u8
+ 
