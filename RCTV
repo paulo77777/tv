@@ -1,5 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id="MEGA FLIX" tvg-name="MEGA FLIX" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-5-1.png" group-title="SERIES E FILME ONLINE",MEGAFLIX 1
-https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
+EXTINF:-1 tvg-id="TC" tvg-name="TC" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-1-1.png" group-title="Filmes e Series",Canal 1
+https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+
