@@ -1,16 +1,21 @@
-#EXTM3U 
+# EXTM3U 
  
-#EXTINF: -1 tvg-id = "CINE +" tvg-name = "CINE +" tvg-logo = "file:///storage/emulated/0/Download/free_horizontal_on_white_by_logaster.png" group-title = "Filmes e Series",CINE + 1
+ 
+#EXTINF: -1 tvg-id = "CINE +" tvg-name = "CINE +" tvg-logo = "https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png
+" group-title = "Filmes e Series",CINE + 
 https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
 
-#EXTINF: -1 tvg-id = "TNT" tvg-name = "TNT" tvg-logo = "file:///storage/emulated/0/Download/free_horizontal_on_white_by_logaster.png" group-title = "Filmes e Series",RCTV
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/tnt.m3u8?mu3zAQc9HC3GbwJq=Hb8wCfOw-Hn2MCijVKzubA&3U1G7qaTxrPbalZnEx=1613509740
+#EXTINF: -1 tvg-id = "CINE +1" tvg-name= "CINE +2" tvg-logo ="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png"
+group-title = "Filmes e Series",CINE + 2
+https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
 
-#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TELECINE PIPOCA " tvg-logo="http://img.starbr.in/1559768323_366798749b48fcf44002badff0abe6b71622d10a.png" group-title="Filmes e Series",TELECINE PIPOCA
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/telecinepipoca.m3u8?mu3zAQc9HC3GbwJq=suPHGqEuPfe-xYIrclxrbA&3U1G7qaTxrPbalZnEx=1613509847
+#EXTINF:-1 tvg-id="CINE +3"      tvg-name="CINE +3"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png" group-title="Filmes e Series",CINE + 3
+https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="CARTOON NETWORK" tvg-name="CARTOON NETWORK" tvg-logo="http://img.starbr.in/1559754696_e1e9b7ed53cb8474ddcecf70cedb8fd7b98af1b9.jpg" group-title="Infantil",CARTOON NETWORK
-https://streaming.encripted-encripted-encripted-encripted-encripted-encripted.fun/a/hls1/cartoon.m3u8?mu3zAQc9HC3GbwJq=sG6bzUREp15e8tSCcpqd3w&3U1G7qaTxrPbalZnEx=1613509984
+#EXTINF:-1 tvg-id="CINE + 4" tvg-name="CINE +4"
+tvg-logo="https://livefocamundo.com:8081/8588/tracks-v1a1/mono.m3u8
+" group-title="Filme e Series",CINE + 4
+https://upload.wikimedia.org/wikipedia/commons/2/21/CINE%2B_-_LOGO.png
 
 #EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="http://img.starbr.in/1559765327_837673f738401fa3f79099612c8a56082306545b.png" group-title="Canais Abertos",RECORD 
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
@@ -18,8 +23,6 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/master.m3u8
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="http://img.starbr.in/1559766096_2afe16915481b045e888571e41f697ee42089a6f.png" group-title="Canais Abertos",SBT 
 https://stmv1.transmissaodigital.com/cidadeverde/cidadeverde/playlist-480p.m3u8
 
-#EXTINF:-1 tvg-id="filme" tvg-name="filme 01" tvg-logo="file:///storage/emulated/0/Download/Free_Sample_By_Wix.jpeg" group-title="Filmes 24 horas",canal 01
-https://stmv1.transmissaodigital.com/clodoaldo7589/clodoaldo7589/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BAND SP" tvg-name="BAND SP" tvg-logo="http://img.starbr.in/1559753792_8a3ff5902c89337e88632304fd198dc92999c3ee.png" group-title="Canais Abertos",BAND SP
-http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
+
+
